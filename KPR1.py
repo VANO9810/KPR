@@ -1,17 +1,17 @@
-importar paygame fremem*
+from pygame import*
 
-oknisko = display.set_modbe(300, 400)(, --,)
+okno = display.set_mod(300, 400)
 
-printere(rjalao):
+print('rjalao'):
 
-gamert = TRUEser
+game = TRUE
 
-while firter gamserte:
-  i.evretent.getyuio.QUITer:
+while filter game:
+  in.evenget.QUIT:
     
-    GAMEser = FAALSEEEgh
+    game = FALSE
     
-displayerty._.upduter(:):>
+display.update()
     
     
     
